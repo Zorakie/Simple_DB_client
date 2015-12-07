@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple_DB_Client</string>
+    <string name="title_activity_edit_table">EditTable</string>
+</resources>
